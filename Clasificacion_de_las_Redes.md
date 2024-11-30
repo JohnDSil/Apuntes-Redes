@@ -25,24 +25,24 @@ Para clasificar las redes tenemos que tener en cuenta diferentes criterios:
      
    - **Interconexión de anillos**: anillos conectados por nodos comunes. Si falla algún nodo central, toda la red falla.
      
-- Transferencia de la Información (según su arquitectura y la tecnología usada).
+- **Transferencia de la Información** (según su arquitectura y la tecnología usada).
   
    - **Redes Conmutadas**: “peer to peer”. El equipo emisor selecciona un equipo con el que conectarse y la red es la encargada de habilitar una vía de comunicación entre los dos equipos. Estas redes se dividen en:
-        - **Conmutación de circuitos: procedimiento por el que dos nodos se conectan permitiendo la utilización de forma exclusiva de un camino único. La ruta se establece durante el proceso de comunicación. Cuando acaba, se libera la conexión. Utilizada en redes telefónicas.
-        - 
-+ Comunicación en paquetes: procedimiento por el que un nodo envía la información en forma de
-paquetes del mismo tamaño y con la misma dirección de destino. Es la conmutación más usada ya que en caso de
-error, se reenvía ese paquete solamente, por lo que aumenta la flexibilidad y rentabilidad de la red. Los equipos de
-conmutación utilizados tienen una mayor complejidad para calcular la ruta más óptima.
-* Redes de Difusión: no existen nodos intermedios, todos los nodos comparten un medio de transmisión común.
-El destinatario es el encargado de seleccionar y captar la información. Está condicionada por la tipología de red,
-bus o anillo.
-- Localización geográfica o tamaño de la red
-* Subred: conjunto de estaciones que comparten un mismo medio de transmisión. Utilizada en departamento de
-una empresa
-* Redes LAN: la unión de varios segmentos de red cuya extensión no sobrepasa el mismo edificio.
-* Red de Campus: las distintas redes de diferentes edificios se conectan a un cable principal.
-* Red de Área Metropolitana: conocida como red MAN. Su extensión abarca una misma ciudad y tiene
-regulaciones locales.
-* Red de Área Extensa y Redes Globales: conocida como red WAN, abarcan varias ciudades, regiones y países.
-Los enlaces WAN son ofrecidos por empresas de telecomunicaciones.
+        - **Conmutación de circuitos**: procedimiento por el que dos nodos se conectan permitiendo la utilización de forma exclusiva de un camino único. La ruta se establece durante el proceso de comunicación. Cuando acaba, se libera la conexión. Utilizada en redes telefónicas.
+        
+        - **Comunicación en paquetes**: procedimiento por el que un nodo envía la información en forma de paquetes del mismo tamaño y con la misma dirección de destino. Es la conmutación más usada ya que en caso de error, se reenvía ese paquete solamente, por lo que aumenta la flexibilidad y rentabilidad de la red. Los equipos de conmutación utilizados tienen una mayor complejidad para calcular la ruta más óptima.
+          
+   - **Redes de Difusión**: no existen nodos intermedios, todos los nodos comparten un medio de transmisión común. El destinatario es el encargado de seleccionar y captar la información. Está condicionada por la tipología de red, bus o anillo.
+     
+- **Localización geográfica o tamaño de la red**:
+  
+   - **Subred**: conjunto de estaciones que comparten un mismo medio de transmisión. Utilizada en departamento de una empresa.
+     
+   - **Redes LAN**: la unión de varios segmentos de red cuya extensión no sobrepasa el mismo edificio.
+     
+   - **Red de Campus**: las distintas redes de diferentes edificios se conectan a un cable principal.
+ 
+   - **Red de Área Metropolitana**: conocida como red MAN. Su extensión abarca una misma ciudad y tiene regulaciones locales.
+ 
+   - **Red de Área Extensa y Redes Globales**: conocida como red **WAN**, abarcan varias ciudades, regiones y países.
+Los enlaces **WAN** son ofrecidos por empresas de telecomunicaciones.
