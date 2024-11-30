@@ -13,9 +13,9 @@
   proporcionan el acceso a un mayor número de recursos con un menor coste económico y facilita su administración
   y mantenimiento. Está constituida por:
   
-+ **Software de red**: programas que permiten controlar el funcionamiento de la red.
-  
-* **Hardware de red**: conjunto de elementos físicos que hacen posible la comunicación entre dos elementos de red.
+**Software de red**: programas que permiten controlar el funcionamiento de la red.
+
+**Hardware de red**: conjunto de elementos físicos que hacen posible la comunicación entre dos elementos de red.
   
 Se distinguen:
 
