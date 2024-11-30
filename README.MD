@@ -18,4 +18,12 @@
 
 1-[Protocolos y Arquitectura de Protocolos](Protocolos_y_Arquitectura_de_Protocolos.md)
 
+2-[Arquitectura basada en Niveles](Arquitectura_basada_en_Niveles.md)
+
+3-[Modelo OSI](Modelo_OSI.md)
+
+4-[Modelo TCP/IP](Modelo_TCP_IP.md)
+
+
+
 
