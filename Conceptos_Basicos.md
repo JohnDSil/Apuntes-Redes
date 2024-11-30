@@ -19,7 +19,8 @@
   
 Se distinguen:
 
-    -Servidor: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.
+-Servidor: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.    
+
   
 - Estaciones de trabajo: al conectar un pc a la red, se convierte en un nodo de la misma y se puede tratar
                        como estación de trabajo o cliente.
