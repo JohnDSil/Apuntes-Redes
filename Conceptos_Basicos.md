@@ -19,21 +19,21 @@
   
 Se distinguen:
 
-  - Servidor: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.
+  - **Servidor**: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.
 
   
-- Estaciones de trabajo: al conectar un pc a la red, se convierte en un nodo de la misma y se puede tratar
+- **Estaciones de trabajo**: al conectar un pc a la red, se convierte en un nodo de la misma y se puede tratar
                        como estación de trabajo o cliente.
   
-- Tarjetas de red: se conoce como placas de interfaz de red y sirve para conectar el ordenador a una red.
+- **Tarjetas de red**: se conoce como placas de interfaz de red y sirve para conectar el ordenador a una red.
 
-- Sistema de cableado: sirve para conectar entre sí el servidor y las estaciones de trabajo.
+- **Sistema de cableado**: sirve para conectar entre sí el servidor y las estaciones de trabajo.
   
-- Recursos y periféricos compartidos: son el resto de equipos que pueden ser utilizados por cualquiera
+- **Recursos y periféricos compartidos**: son el resto de equipos que pueden ser utilizados por cualquiera
                                     en la red.
   
-- Protocolo: es el conjunto de normas mutuamente aceptadas que van a regir el diálogo entre los equipos de red.
+- **Protocolo**: es el conjunto de normas mutuamente aceptadas que van a regir el diálogo entre los equipos de red.
 Establece como debe llevarse a cabo la comunicación.
-- Servidores básicos: son las herramientas que permiten establecer un tipo específico de comunicación.
+- **Servidores básicos**: son las herramientas que permiten establecer un tipo específico de comunicación.
 Transmisión de datos, establecimiento de llamada, tarificación, transmisión de voz son algunos ejemplos.
 
