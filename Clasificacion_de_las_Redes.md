@@ -3,22 +3,23 @@
 Para clasificar las redes tenemos que tener en cuenta diferentes criterios:
 
 - Titularidad de la Red (propietario de la red)
-   - **Redes dedicadas: sus lineas de comunicación son diseñadas e instaladas por el usuario o alquiladas a las
-compañías de comunicaciones y son de uso exclusivo. Red de facultad o instituto.
-* Redes compartidas: las lineas de comunicación soportan información de diferentes usuarios. Son redes de
-servicio público ofrecidas por las compañías de telecomunicaciones. Red de telefonía fija o móvil.
-- Topología (forma en la se interconectan los diferentes nodos o usuarios)
-* Malla: interconexión total de todos los nodos. Si una ruta falla, se puede seleccionar otra alternativa. Es la más
-costosa.
-* Estrella: los equipos se conectan a un nodo central que se encarga de distribuir, comunicar y controlar. Si el
-nodo central falla, queda inutilizada toda la red. Se utilizan concentradores o hubs.
-* Bus: se utiliza un único cable para conectar los equipos. Se requiere menos cableado, pero si falla algún enlace,
-todos los nodos quedan aislados.
-* Árbol: es la estructura jerarquizada. Es la menos utilizada ya que si falla un nodo o un enlace deja a un conjunto
-de nodos incomunicados. Es la más utilizada en redes de telefonía.
-* Anillo: los nodos están conectados a una única vía con sus dos extremos unidos. Si falla algún enlace, la red
-deja de funcionar completamente.
-* Celular: está compuesta por áreas circulares o hexagonales, llamadas celdas, cada una de las cuales tiene un
+   - **Redes dedicadas**: sus lineas de comunicación son diseñadas e instaladas por el usuario o alquiladas a las compañías de comunicaciones y son de uso exclusivo. Red de facultad o instituto.
+     
+   - **Redes compartidas**: las lineas de comunicación soportan información de diferentes usuarios. Son redes de servicio público ofrecidas por las compañías de telecomunicaciones. Red de telefonía fija o móvil.
+     
+- Topología (forma en la se interconectan los diferentes nodos o usuarios).
+  
+   - **Malla**: interconexión total de todos los nodos. Si una ruta falla, se puede seleccionar otra alternativa. Es la más costosa.
+     
+   - **Estrella**: los equipos se conectan a un nodo central que se encarga de distribuir, comunicar y controlar. Si el nodo central falla, queda inutilizada toda la red. Se utilizan concentradores o hubs.
+     
+   - **Bus**: se utiliza un único cable para conectar los equipos. Se requiere menos cableado, pero si falla algún enlace, todos los nodos quedan aislados.
+    
+   - **Árbol**: es la estructura jerarquizada. Es la menos utilizada ya que si falla un nodo o un enlace deja a un conjunto de nodos incomunicados. Es la más utilizada en redes de telefonía.
+     
+   - **Anillo**: los nodos están conectados a una única vía con sus dos extremos unidos. Si falla algún enlace, la red deja de funcionar completamente.
+     
+   - **Celular**: está compuesta por áreas circulares o hexagonales, llamadas celdas, cada una de las cuales tiene un
 nodo en el centro. Se utiliza en redes inalámbricas. No tiene enlaces físicos.
 * Irregular: cada nodo está conectado por un enlace. Permite la búsqueda de rutas alternativas en caso de que
 algún enlace falle.
