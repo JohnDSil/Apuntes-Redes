@@ -1,6 +1,6 @@
 # Modelo OSI:
 
-![Modelo OSI](img/modelo osi.PNG)
+![Modelo OSI](img/modelo osi.png)
 
 Es el marco de referencia para la definición de arquitecturas de interconexión de sistemas de comunicaciones.
 La mayoría de los fabricantes relacionan sus productos con este modelo ya que permite que los usuarios vean las
