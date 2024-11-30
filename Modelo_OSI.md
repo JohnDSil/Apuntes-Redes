@@ -54,12 +54,10 @@ encarga de subsanar posibles diferencias en la red.
 **PDU: datagrama o segmento**.
 
 - **Nivel Sesión**: proporciona funciones de organización para que las aplicaciones dialoguen entre sí. El diálogo se
-realiza a través de una conexión que se llama sesión.
-**PDU: datos**.
+realiza a través de una conexión que se llama sesión. **PDU: datos**.
   
 - **Nivel Presentación**: se encarga de la presentación de los datos y de traducir a un formato universal como por
-ejemplo el **ASCII**.
+ejemplo el **ASCII**. **PDU: datos**.
 
-**PDU: datos**.
 - **Nivel Aplicación**: enlazadirectamente con el usuario.
 **PDU: datos**.
