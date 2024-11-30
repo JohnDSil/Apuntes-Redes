@@ -1,5 +1,7 @@
 # Modelo TCP/IP:
 
+![TCP/IP](img/tcpip.png)
+
 El modelo **TCP/IP** es muy similar al modelo OSI, aunque con algunas diferencias:
 
 - Las capas de aplicación, presentación y sesión las combina en una misma capa llamada **aplicación**.
