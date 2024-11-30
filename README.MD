@@ -16,6 +16,6 @@
 
 # Tema 2: Arquitectura de Red y Modelos de Red
 
-1-[Protocolos y Arquitectura de Protocolos](Protocolos_y_Arquitectura_de_Protocolos)
+1-[Protocolos y Arquitectura de Protocolos](Protocolos_y_Arquitectura_de_Protocolos.md)
 
 
