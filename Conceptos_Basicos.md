@@ -20,13 +20,12 @@
 - **Software de red**: programas que permiten controlar el funcionamiento de la red.
 
 - **Hardware de red**: conjunto de elementos físicos que hacen posible la comunicación entre dos elementos de red.
-  
-Se distinguen:
+  Se distinguen:
 
-  - **Servidor**: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.
+     - **Servidor**: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.
 
   
-- **Estaciones de trabajo**: al conectar un pc a la red, se convierte en un nodo de la misma y se puede tratar
+     - **Estaciones de trabajo**: al conectar un pc a la red, se convierte en un nodo de la misma y se puede tratar
                        como estación de trabajo o cliente.
   
 - **Tarjetas de red**: se conoce como placas de interfaz de red y sirve para conectar el ordenador a una red.
