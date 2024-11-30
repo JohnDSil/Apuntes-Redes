@@ -20,6 +20,7 @@
 - **Software de red**: programas que permiten controlar el funcionamiento de la red.
 
 - **Hardware de red**: conjunto de elementos físicos que hacen posible la comunicación entre dos elementos de red.
+  
   Se distinguen:
 
      - **Servidor**: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.
