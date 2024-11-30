@@ -12,11 +12,12 @@
   de interconexión, son capaces de comunicarse con el fin de compartir datos, hardware y software y que
   proporcionan el acceso a un mayor número de recursos con un menor coste económico y facilita su administración
   y mantenimiento. Está constituida por:
-      * Software de red: programas que permiten controlar el funcionamiento de la red.
-      * Hardware de red: conjunto de elementos físicos que hacen posible la comunicación entre dos elementos de red.
+      **Software de red**: programas que permiten controlar el funcionamiento de la red.
+      **Hardware de red**: conjunto de elementos físicos que hacen posible la comunicación entre dos elementos de red.
+  
 Se distinguen:
 
-      + Servidor: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.
+      -Servidor: ejecuta el sistema operativo de red y ofrece los servicios de red a las estaciones de trabajo.
   
       + Estaciones de trabajo: al conectar un pc a la red, se convierte en un nodo de la misma y se puede tratar
         como estación de trabajo o cliente.
