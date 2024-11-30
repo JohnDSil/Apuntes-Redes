@@ -1,4 +1,4 @@
-# Sistemas de Comunicación
+# Sistemas de Comunicación:
 
 Es un sistema que transmite información desde un lugar (emisor) a otro lugar (receptor).
 
