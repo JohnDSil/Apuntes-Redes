@@ -19,17 +19,17 @@ Para clasificar las redes tenemos que tener en cuenta diferentes criterios:
      
    - **Anillo**: los nodos están conectados a una única vía con sus dos extremos unidos. Si falla algún enlace, la red deja de funcionar completamente.
      
-   - **Celular**: está compuesta por áreas circulares o hexagonales, llamadas celdas, cada una de las cuales tiene un
-nodo en el centro. Se utiliza en redes inalámbricas. No tiene enlaces físicos.
-* Irregular: cada nodo está conectado por un enlace. Permite la búsqueda de rutas alternativas en caso de que
-algún enlace falle.
-* Interconexión de anillos: anillos conectados por nodos comunes. Si falla algún nodo central, toda la red falla.
-- Transferencia de la Información (según su arquitectura y la tecnología usada)
-* Redes Conmutadas: “peer to peer”. El equipo emisor selecciona un equipo con el que conectarse y la red es la
-encargada de habilitar una vía de comunicación entre los dos equipos. Estas redes se dividen en:
-+ Conmutación de circuitos: procedimiento por el que dos nodos se conectan permitiendo la utilización
-de forma exclusiva de un camino único. La ruta se establece durante el proceso de comunicación. Cuando acaba,
-se libera la conexión. Utilizada en redes telefónicas.
+   - **Celular**: está compuesta por áreas circulares o hexagonales, llamadas celdas, cada una de las cuales tiene un nodo en el centro. Se utiliza en redes inalámbricas. No tiene enlaces físicos.
+     
+   - **Irregular**: cada nodo está conectado por un enlace. Permite la búsqueda de rutas alternativas en caso de que algún enlace falle.
+     
+   - **Interconexión de anillos**: anillos conectados por nodos comunes. Si falla algún nodo central, toda la red falla.
+     
+- Transferencia de la Información (según su arquitectura y la tecnología usada).
+  
+   - **Redes Conmutadas**: “peer to peer”. El equipo emisor selecciona un equipo con el que conectarse y la red es la encargada de habilitar una vía de comunicación entre los dos equipos. Estas redes se dividen en:
+        - **Conmutación de circuitos: procedimiento por el que dos nodos se conectan permitiendo la utilización de forma exclusiva de un camino único. La ruta se establece durante el proceso de comunicación. Cuando acaba, se libera la conexión. Utilizada en redes telefónicas.
+        - 
 + Comunicación en paquetes: procedimiento por el que un nodo envía la información en forma de
 paquetes del mismo tamaño y con la misma dirección de destino. Es la conmutación más usada ya que en caso de
 error, se reenvía ese paquete solamente, por lo que aumenta la flexibilidad y rentabilidad de la red. Los equipos de
