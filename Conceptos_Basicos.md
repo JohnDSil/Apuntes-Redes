@@ -1,21 +1,21 @@
 # Conceptos Básicos:
 
-- Información: es todo aquello que a través de nuestros sentidos penetra en nuestro sistema nervioso y produce un
+**Información**: es todo aquello que a través de nuestros sentidos penetra en nuestro sistema nervioso y produce un
   aumento de conocimiento.
-- Teleinformática o telemática: Ciencia que estudia el conjunto de técnicas necesarias para transmitir datos
+**Teleinformática o telemática**: Ciencia que estudia el conjunto de técnicas necesarias para transmitir datos
   dentro de un sistema informático a través de lineas de comunicaciones. Internet por ejemplo.
-- Transmisión: es el proceso por el que se transportan señales de un lugar a otro. Las señales son entidades de
+  **Transmisión**: es el proceso por el que se transportan señales de un lugar a otro. Las señales son entidades de
   naturaleza diversa que se manifiestan como magnitudes físicas electromagnéticas y mecánicas.
-- Comunicación: es el proceso telemático por el cual se transporta información, sabiendo que esa información
+**Comunicación**: es el proceso telemático por el cual se transporta información, sabiendo que esa información
   viajan sobre una señal.
-- Red: es un sistema de dos o más ordenadores autónomos que, mediante protocolos, dispositivos y medios físicos
+**Red**: es un sistema de dos o más ordenadores autónomos que, mediante protocolos, dispositivos y medios físicos
   de interconexión, son capaces de comunicarse con el fin de compartir datos, hardware y software y que
   proporcionan el acceso a un mayor número de recursos con un menor coste económico y facilita su administración
   y mantenimiento. Está constituida por:
   
-**Software de red**: programas que permiten controlar el funcionamiento de la red.
+- **Software de red**: programas que permiten controlar el funcionamiento de la red.
 
-**Hardware de red**: conjunto de elementos físicos que hacen posible la comunicación entre dos elementos de red.
+- **Hardware de red**: conjunto de elementos físicos que hacen posible la comunicación entre dos elementos de red.
   
 Se distinguen:
 
