@@ -26,14 +26,14 @@
 
   
      - **Estaciones de trabajo**: al conectar un pc a la red, se convierte en un nodo de la misma y se puede tratar
-                       como estación de trabajo o cliente.
+                                  como estación de trabajo o cliente.
   
-- **Tarjetas de red**: se conoce como placas de interfaz de red y sirve para conectar el ordenador a una red.
+     - **Tarjetas de red**: se conoce como placas de interfaz de red y sirve para conectar el ordenador a una red.
 
-- **Sistema de cableado**: sirve para conectar entre sí el servidor y las estaciones de trabajo.
+     - **Sistema de cableado**: sirve para conectar entre sí el servidor y las estaciones de trabajo.
   
-- **Recursos y periféricos compartidos**: son el resto de equipos que pueden ser utilizados por cualquiera
-                                    en la red.
+     - **Recursos y periféricos compartidos**: son el resto de equipos que pueden ser utilizados por cualquiera
+                                               en la red.
   
 - **Protocolo**: es el conjunto de normas mutuamente aceptadas que van a regir el diálogo entre los equipos de red.
 Establece como debe llevarse a cabo la comunicación.
